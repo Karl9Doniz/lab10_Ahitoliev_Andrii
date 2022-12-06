@@ -8,3 +8,6 @@ Lab 10 on cms.
 2. counties_process.ipynb contains solutions for task 2 
 Lab 10 on cms.
 
+Files olympics.csv and census.csv need to be uploaded into colab notebook
+for programs to work.
+
